@@ -1,7 +1,7 @@
 <h1 align="center"> Pass.in </h1>
 
 <p align="center">
-Projeto criado para cadastro de pessoas, para eventos ou algo do tipo.
+Projeto criado para cadastro de pessoas, tem objetivo de ser utilizado em eventos.
 </p>
 
 <p align="center">
