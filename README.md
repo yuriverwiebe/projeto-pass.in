@@ -36,7 +36,7 @@ O Pass.in é um projeto onde a pessoa pode ver todos os participantes do evento 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/file/9MDluHdojI6IJSdpMOw0rL/pass.in-(Community)?type=design&node-id=4003-2785&mode=design&t=DUW9HosgjPkUdroo-0]). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/9MDluHdojI6IJSdpMOw0rL/pass.in-(Community)?type=design&node-id=4003-2785&mode=design&t=DUW9HosgjPkUdroo-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 
