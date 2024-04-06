@@ -18,7 +18,7 @@ Projeto criado para cadastro de pessoas, para eventos ou algo do tipo.
 <br>
 
 <p align="center">
-  <img alt="Projeto Pass.in" src=".img/preview.jpg" width="100%">
+  <img alt="Projeto Pass.in" src="img/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
